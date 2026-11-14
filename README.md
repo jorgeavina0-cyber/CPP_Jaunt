@@ -1,2 +1,1 @@
-# CPP_Jaunt
-Hands-on C++ learning journey featuring completed drills, exercises, and projects from Bjarne Stroustrup’s Programming: Principles and Practice Using C++ (2nd Edition). Focused on modern C++, type safety, and STL fundamentals.
+Building a foundation in modern C++ through hands-on exercises from Bjarne Stroustrup’s Programming: Principles and Practice Using C++ (2nd Ed.), focusing on algorithmic problem-solving, STL, and clean architecture.
